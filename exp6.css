@@ -18,9 +18,9 @@ body {
 
 /* Product Image */
 .product-img {
-  width: 300px;
-  height: 250px;
-  border: 1px solid #ddd;
+  width: 350px;
+  height: 300px;
+  border: 2px solid #ddd;
   margin-bottom: 15px;
 }
 
